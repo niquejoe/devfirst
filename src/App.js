@@ -9,6 +9,8 @@ function App() {
         <p>
             Affordable Websites for everyone!
         </p>
+        <code>Let's start coding</code>
+        <br/>
         <a
           className="App-link"
           href="https://google.com"
